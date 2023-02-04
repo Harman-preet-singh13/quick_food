@@ -1,0 +1,30 @@
+.menu-container {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.food-card-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+@media (max-width: 750px) {
+    .food-card-container {
+      padding-top: 32rem;
+      flex-direction: column;
+    }
+  }
+
+
+.menuimg{
+    padding: 5px;
+    width:150px;
+    border-radius: 20px;
+}
+
+.order-modal{
+  background-color: rgb(69, 68, 68) !important;
+}
