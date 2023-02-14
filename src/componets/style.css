@@ -11,12 +11,29 @@
     gap: 10px;
 }
 
+.pizza-card{
+  padding: 10px;
+  flex:50%;
+}
+
+.burger-card{
+  padding: 10px;
+  flex:50%;
+}
+
+.pasta-card{
+  padding: 10px;
+  flex:50%;
+}
+
 @media (max-width: 750px) {
     .food-card-container {
-      padding-top: 32rem;
+      padding-top:60px;
       flex-direction: column;
+      height: 800px;
+      overflow: scroll;
     }
-  }
+}
 
 
 .menuimg{

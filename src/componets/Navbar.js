@@ -71,7 +71,7 @@ export default function Navbar() {
 
             <Box sx={{ display: 'flex' }}>
                 <CssBaseline />
-                <AppBar component="nav" style={{ background: '#2E3B55' }}>
+                <AppBar component="nav" style={{ background: '#primary' }}>
                     <Toolbar>
                         <IconButton
                             color="inherit"
