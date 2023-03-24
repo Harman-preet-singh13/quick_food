@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/quick_food/static/css/main.5c0bdb99.css",
+    "main.js": "/quick_food/static/js/main.ef2992a9.js",
+    "static/media/burger.jpg": "/quick_food/static/media/burger.91b5c13a6e6957cb1cfb.jpg",
+    "static/media/pasta.jpg": "/quick_food/static/media/pasta.b41348fb23aba50c5264.jpg",
+    "static/media/pizza1.jpg": "/quick_food/static/media/pizza1.48eba2d2537498986172.jpg",
+    "static/media/coupons.png": "/quick_food/static/media/coupons.2a7abc1e04a62291f46a.png",
+    "static/media/quickfood1.jpg": "/quick_food/static/media/quickfood1.bd6cc98761406f1e866e.jpg",
+    "index.html": "/quick_food/index.html",
+    "main.5c0bdb99.css.map": "/quick_food/static/css/main.5c0bdb99.css.map",
+    "main.ef2992a9.js.map": "/quick_food/static/js/main.ef2992a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0bdb99.css",
+    "static/js/main.ef2992a9.js"
+  ]
+}
